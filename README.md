@@ -1,2 +1,2 @@
-# .github
-Duke
+# Duke
+duke
